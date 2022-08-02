@@ -2,7 +2,7 @@
 
 ## 一键部署
 注册并登录好Vercel账号点击此链接可以直接跳转Vercel新建项目，效果与第一步类似（完成后可跳过第一步）  
-[一键部署Vercel项目](https://vercel.com/button)(https://vercel.com/import/project?template=https://github.com/QzKevin/typecho_vercel)
+[![Deploy to Vercel](https://vercel.com/button)](https://vercel.com/import/project?template=https://github.com/QzKevin/typecho_vercel)
 
 ## 第一步（使用一键部署跳过此步骤）
 1.Github创建一个仓库 设置为private  
