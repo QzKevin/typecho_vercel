@@ -4,7 +4,7 @@
 注册并登录好Vercel账号点击此链接可以直接跳转Vercel新建项目，效果与第一步类似（完成后可跳过第一步）  
 [一键部署Vercel项目](https://vercel.com/import/project?template=https://github.com/QzKevin/typecho_vercel)
 
-## 第一步
+## 第一步（使用一键部署跳过此步骤）
 1.Github创建一个仓库 设置为private  
 2.克隆本仓库代码到你创建的仓库
 
@@ -31,5 +31,6 @@ Typecho_Db::set($db);
 修改成自己的数据库
 
 ## 第三步
-使用Vercel部署github仓库
+1.使用Vercel部署github仓库（使用一键部署跳过此步骤）  
+2.用Vercel提供的域名 + /install.php开始安装（具体安装可自行搜索Typecho安装教程）
 
