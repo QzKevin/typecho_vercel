@@ -29,3 +29,6 @@ Typecho_Db::set($db);
 ## 第三步
 使用Vercel部署github仓库
 
+
+## pbloods大佬做的一键部署
+https://vercel.com/import/project?template=https://github.com/pbloods/typecho/
