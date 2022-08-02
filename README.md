@@ -29,4 +29,3 @@ Typecho_Db::set($db);
 ## 第三步
 使用Vercel部署github仓库
 
-详细图文教程目前可访问https://kayin.ml
