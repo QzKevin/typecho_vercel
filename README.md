@@ -1,13 +1,13 @@
 # Vercel部署Typecho博客系统
 
 ## 第一步
-1.Github创建一个仓库 设置为private
+1.Github创建一个仓库 设置为private  
 2.克隆本仓库代码到你创建的仓库
 
 ## 第二步
 1.获取一个数据库可自己搭建也可以自己找
-我这边推荐[railway](https://railway.app/)
-2.注册一个账号并新建MySQL数据库
+我这边推荐[railway](https://railway.app/)  
+2.注册一个账号并新建MySQL数据库  
 3.修改config.inc.php中
 ```
 /** 定义数据库参数 */
