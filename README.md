@@ -10,7 +10,7 @@
 
 ## 第二步
 1.获取一个数据库可自己搭建也可以自己找
-我这边推荐[railway](https://railway.app/)  
+我这边推荐[railway](https://railway.app/)  和[PlanetScale](https://planetscale.com/)
 2.注册一个账号并新建MySQL数据库  
 3.修改config.inc.php中
 ```
