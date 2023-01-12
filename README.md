@@ -32,5 +32,5 @@ Typecho_Db::set($db);
 
 ## 第三步
 1.使用Vercel部署github仓库（使用一键部署跳过此步骤）  
-2.用Vercel提供的域名 + /install.php开始安装（具体安装可自行搜索Typecho安装教程）
+2.用Vercel提供的域名（现在一定要绑定自己的域名，vercel.app的域名已经被墙） + /install.php开始安装（具体安装可自行搜索Typecho安装教程）
 
